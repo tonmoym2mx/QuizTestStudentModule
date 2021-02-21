@@ -1,9 +1,13 @@
 # depslib dependency file v1.0
-1584205420 source:d:\bubt\3rd semister\quiztest project\quizteststudentmodule\main.c
+1613905783 source:d:\bubt\3rd semister\quiztest project\quizteststudentmodule\main.c
 	<stdio.h>
 	<stdlib.h>
+	<dos.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
 
-1613833521 source:d:\bubt\3rd semister\quiztest project\quizteststudentmodule\helper.c
+1613902950 source:d:\bubt\3rd semister\quiztest project\quizteststudentmodule\helper.c
 	<stdio.h>
 	<stdlib.h>
 	<dos.h>
@@ -18,4 +22,8 @@
 	<conio.h>
 	<time.h>
 	<windows.h>
+
+1613907495 source:d:\bubt\3rd semister\quiztest project\quizteststudentmodule\utils.c
+	<stdio.h>
+	<stdlib.h>
 

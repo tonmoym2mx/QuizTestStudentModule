@@ -10,10 +10,6 @@
 char ans[100];
 int mark = 0;
 FILE *qFile,*oFile;
-void openFile(){
-
-
-}
 void openQuestionFile(){
  qFile = fopen("question.csv","r");
     if(qFile == NULL){
