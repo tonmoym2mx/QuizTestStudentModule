@@ -31,6 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Art.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Helper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
