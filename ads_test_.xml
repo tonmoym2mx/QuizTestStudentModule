@@ -8,8 +8,8 @@
                     <Linear>
                         <MediaFiles>
                             <MediaFile type="video/mp4" bitrate="300" width="1280" height="720">
-                                https://r5---sn-4g5ednz7.gvt1.com/videoplayback/id/8bd2c53a3e15469d/itag/18/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1617224679/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,source/signature/2B54E42705F4F72EC0F8443E6CBA17788EEE7AB9.6B19C1B79AB42CC4E37F3B155DEF4C1AB713296D/key/cms1/cms_redirect/yes/mh/Lg/mip/217.138.194.91/mm/28/mn/sn-4g5ednz7/ms/nvh/mt/1617205219/mv/m/mvi/5/pl/24/file/file.mp4
-                              </MediaFile>
+                                https://firebasestorage.googleapis.com/v0/b/ai-app-bff6b.appspot.com/o/20012ea4-aa0e-4762-a21a-9a664d09e914.mp4?alt=media&token=c89f6f99-257d-43d8-9c96-c43c9422da27
+                            </MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
